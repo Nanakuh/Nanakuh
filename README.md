@@ -1,4 +1,4 @@
-### Hello everyone 👋, my name is Ana and I'm a Full-Stack Developer student. Passionate about technology and programming and always looking for new projects that allow me to grow as developer.
+### Hello everyone 👋, my name is Ana and I'm a Full-Stack Developer. Passionate about technology and programming and always looking for new projects that allow me to grow as developer.
 
 #### Languages and Tools:
 
