@@ -13,4 +13,4 @@ src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-p
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><br /> <br />
 
 <br/>
-- <a  href="[https://www.linkedin.com/in/ana-mar%C3%ADa-gil-rodr%C3%ADguez-065b24170/](https://www.linkedin.com/in/ana-maria-gil-rod/)"><img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> linkedIn</a>
+- <a  href="https://www.linkedin.com/in/ana-mar%C3%ADa-gil-rodr%C3%ADguez-065b24170/"><img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> linkedIn</a>
